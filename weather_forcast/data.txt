@@ -1,0 +1,44 @@
+Weather report city:Bangalore 
+========================================================================================================================
+Sl No  Date and time       Temperature Humidity   Weather  Weather Description   wind speed   wind degree    
+------------------------------------------------------------------------------------------------------------------------
+1    2025-11-20 06:00:00   23.34       68       Clouds   scattered clouds      3.02         80             
+2    2025-11-20 09:00:00   25.49       56       Clouds   few clouds            4.17         91             
+3    2025-11-20 12:00:00   23.71       57       Clouds   few clouds            3.8          98             
+4    2025-11-20 15:00:00   20.9        67       Clouds   broken clouds         3.73         89             
+5    2025-11-20 18:00:00   19.14       76       Clouds   overcast clouds       3.33         83             
+6    2025-11-20 21:00:00   18.14       76       Clouds   overcast clouds       2.68         81             
+7    2025-11-21 00:00:00   17.98       76       Clouds   overcast clouds       2.42         67             
+8    2025-11-21 03:00:00   21.47       74       Clouds   overcast clouds       3.86         75             
+9    2025-11-21 06:00:00   26.22       56       Clouds   broken clouds         4.27         77             
+10   2025-11-21 09:00:00   25.65       60       Rain     light rain            4.6          78             
+11   2025-11-21 12:00:00   23.04       71       Rain     light rain            4.65         57             
+12   2025-11-21 15:00:00   21.44       77       Clouds   broken clouds         4.62         46             
+13   2025-11-21 18:00:00   19.93       85       Clouds   broken clouds         4.13         54             
+14   2025-11-21 21:00:00   19.24       88       Clouds   scattered clouds      2.85         49             
+15   2025-11-22 00:00:00   18.32       95       Clouds   broken clouds         2.95         50             
+16   2025-11-22 03:00:00   21.54       79       Clouds   overcast clouds       4.59         80             
+17   2025-11-22 06:00:00   25.48       62       Clouds   overcast clouds       5.16         90             
+18   2025-11-22 09:00:00   24.54       65       Rain     light rain            4.02         92             
+19   2025-11-22 12:00:00   23.22       72       Rain     light rain            3.29         81             
+20   2025-11-22 15:00:00   20.41       89       Rain     light rain            3.85         86             
+21   2025-11-22 18:00:00   19.36       93       Clouds   overcast clouds       3.11         87             
+22   2025-11-22 21:00:00   18.79       95       Clouds   overcast clouds       3.04         83             
+23   2025-11-23 00:00:00   18.16       96       Clouds   overcast clouds       2.55         81             
+24   2025-11-23 03:00:00   21.56       79       Clouds   broken clouds         3.76         78             
+25   2025-11-23 06:00:00   26.05       57       Rain     light rain            3.9          81             
+26   2025-11-23 09:00:00   24.95       62       Rain     light rain            4.12         79             
+27   2025-11-23 12:00:00   22.51       75       Rain     light rain            3.65         79             
+28   2025-11-23 15:00:00   20.67       87       Rain     light rain            3.79         85             
+29   2025-11-23 18:00:00   19.75       92       Rain     moderate rain         3.94         99             
+30   2025-11-23 21:00:00   18.96       94       Rain     light rain            2.9          90             
+31   2025-11-24 00:00:00   18.24       96       Clouds   overcast clouds       2.38         79             
+32   2025-11-24 03:00:00   21.26       75       Clouds   scattered clouds      3.04         80             
+33   2025-11-24 06:00:00   25.49       51       Clouds   scattered clouds      3.01         59             
+34   2025-11-24 09:00:00   26.74       49       Clouds   scattered clouds      3.89         48             
+35   2025-11-24 12:00:00   23.56       62       Clouds   broken clouds         3.72         52             
+36   2025-11-24 15:00:00   22.62       64       Clouds   overcast clouds       3.1          46             
+37   2025-11-24 18:00:00   19.4        80       Clouds   overcast clouds       3.3          63             
+38   2025-11-24 21:00:00   17.94       85       Clouds   overcast clouds       3.3          60             
+39   2025-11-25 00:00:00   16.99       80       Clouds   overcast clouds       2.86         48             
+40   2025-11-25 03:00:00   19.49       69       Clouds   overcast clouds       3.8          53             
